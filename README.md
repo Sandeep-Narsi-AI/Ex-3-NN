@@ -1,5 +1,5 @@
-### NAME : RAJESHKANNAN.M
-### REGISTER NO : 212221230081
+### NAME :  PASUPULETI SANDEEP
+### REGISTER NO : 212221230074
 ### EX_NO : 3
 ### DATE: 3.4.2024
 <H2 aligh = center> Implementation of MLP for a non-linearly separable data</H2>
